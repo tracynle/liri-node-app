@@ -7,19 +7,24 @@ Liri-node-app functions like Apple's SIRI, Speech Interpretation and Recognition
 - OMDB for movies  (with Axios)
 
 ## Instructions 
-Open your Terminal and you can begin your song, concert, or movie searches. Each command requires different parameters, so be sure to include these in your search:
+Open your Terminal and you can begin your song, concert, or movie searches. Each command requires different parameters, so be sure to include these in your search. 
 
-## Bands in Town for concerts
+### If the artist/band name or move titles are longer than one word, include them in quotation marks:
+`"movie or song or artist/band name"`
+
+### Bands in Town for concerts
 `node lirir.js concert-this <artist/band name here> `
 
 The search will show you something like this:
 
-## Spotify for songs
+![Screenshot]
+
+### Spotify for songs
 `node lirir.js spotify-this-song <song name here> `
 
 The search will show you something like this:
 
-## OMDB for movies 
+### OMDB for movies 
 `node lirir.js movie-this <movie title here> `
 
 The search will show you something like this:
