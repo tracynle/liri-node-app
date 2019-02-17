@@ -73,6 +73,7 @@ else if (thirdCommand === 'movie-this') {
           "Language: " + jsonData.Language,
           "Plot: " + jsonData.Plot
         ].join("\n\n");
+        console.log(movieInfo);
       })
       .catch(function (error){
         console.log(error);
@@ -89,6 +90,3 @@ else if (thirdCommand === 'do-what-it-says') {
     console.log(dataArr);
   })
 }
-
-
-
