@@ -28,7 +28,7 @@ The search will show you something like this:
 
 If you do not put anything in the past argument, then your search will default to another search, recommending you something else like this:
 
-<img src="images/spotify-this-song-no-input.png" width="500" height="200">
+<img src="images/spotify-this-song-no-input.png" width="500" height="400">
 
 
 ### OMDB for movies 
