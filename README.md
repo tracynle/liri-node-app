@@ -17,16 +17,30 @@ Open your Terminal and you can begin your song, concert, or movie searches. Each
 
 The search will show you something like this:
 
-![Screenshot]
+![ ](images/concert-this-artist.png)
 
 ### Spotify for songs
 `node lirir.js spotify-this-song <song name here> `
 
 The search will show you something like this:
 
+![ ](images/spotify-this-song.png)
+
+If you do not put anything in the past argument, then your search will default to another search, recommending you something else like this:
+
+! [ ](image/spotify-this-song-no-input.png)
+
 ### OMDB for movies 
 `node lirir.js movie-this <movie title here> `
 
 The search will show you something like this:
 
+![ ](images/movie-this-no-input.png)
+
+### Do-what-it-says
+The last command will run a text file that will search a song that is already saved. Try out this command and see what will search up! 
+
+`node liri.js do-what-it-says`
+
+![ ](images/do-what-it-says.png)
 
