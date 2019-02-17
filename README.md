@@ -16,15 +16,18 @@ Open your Terminal and you can begin your song, concert, or movie searches. Each
 `node lirir.js concert-this <artist/band name here> `
 
 The search will show you something like this:
+
 <img src="images/concert-this-artist.png" width="300" height="200">
 
 ### Spotify for songs
 `node lirir.js spotify-this-song <song name here> `
 
 The search will show you something like this:
+
 <img src="images/spotify-this-song.png" width="300" height="200">
 
 If you do not put anything in the past argument, then your search will default to another search, recommending you something else like this:
+
 <img src="images/spotify-this-song-no-input.png" width="350" height="150">
 
 
@@ -32,12 +35,14 @@ If you do not put anything in the past argument, then your search will default t
 `node lirir.js movie-this <movie title here> `
 
 The search will show you something like this:
+
 <img src="images/movie-this-no-input.png" width="350" height="150">
 
 ### Do-what-it-says
 The last command will run a text file that will search a song that is already saved. Try out this command and see what will search up! 
 
 `node liri.js do-what-it-says`
+
 <img src="images/do-what-it-says.png" width="400" height="340">
 
 
