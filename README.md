@@ -29,18 +29,18 @@ To search for concerts, use `concert-this`
 
 `node liri.js concert-this <artist/band name here> `
 
-<img src="images/concert-this.png" width="400" height="300">
+<img src="images/concert-this.png">
 
 ## Spotify for songs
 To search for songs, use `spotify-this-song`
 
 `node liri.js spotify-this-song <song name here> `
 
-<img src="images/spotify-this-song.png" width="400" height="300">
+<img src="images/spotify-this-song.png">
 
 If you do not put anything in the last argument, then your search will default to another search recommending you something else:
 
-<img src="images/spotify-this-song-no-input.png" width="500" height="400">
+<img src="images/spotify-this-song-no-input.png">
 
 
 ## OMDB for movies 
@@ -49,13 +49,13 @@ To search for movies, use `movie-this`
 `node liri.js movie-this <movie title here> `
 
 
-<img src="images/movie-this-no-input.png" width="500" height="300">
+<img src="images/movie-this-no-input.png">
 
 ## Do-what-it-says
 The last command will run a text file that will search a song that is already saved. Try out this command and see what will search up! 
 
 `node liri.js do-what-it-says`
 
-<img src="images/do-what-it-says.png" width="500" height="400">
+<img src="images/do-what-it-says.png">
 
 
