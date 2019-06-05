@@ -58,4 +58,11 @@ The last command will run a text file that will search a song that is already sa
 
 <img src="images/do-what-it-says.png">
 
+## Built With
+* Axios
+* OMD API
+* Spotify API
+* Bands in Town API
+* Moment
+
 
